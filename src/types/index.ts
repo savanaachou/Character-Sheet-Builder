@@ -69,8 +69,8 @@ export const DEFAULT_SHEET: CharacterSheet = {
   className: "Class: Full-Stack Generalist",
   portraitUrl: null,
   bio: "Write a short, playful bio here. What do you do, and what makes you, you?",
-  strongAgainst: "unfamiliar codebases",
-  vulnerableTo: "one more feature",
+  strongAgainst: "fill in a feature",
+  vulnerableTo: "fill in another feature",
   origin: "Your school or background",
   guild: "Your discipline",
   stats: [
